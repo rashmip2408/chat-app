@@ -1,0 +1,17 @@
+body {
+    font-family: "Segoe UI", "Helvetica Neue", Helvetica, "Lucida Grande", Arial, Ubuntu, Cantarell, "Fira Sans", sans-serif;
+
+}
+
+::-webkit-scrollbar {
+    width: 6px !important;
+    height: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: hsla(0, 0%, 100%, .1);
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+}
